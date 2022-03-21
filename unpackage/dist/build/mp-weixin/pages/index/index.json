@@ -1,0 +1,8 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "nav-bar": "/components/navBar/navBar",
+    "tab-bar": "/components/tabBar/tabBar",
+    "article-list": "/components/ArticleList/ArticleList"
+  }
+}

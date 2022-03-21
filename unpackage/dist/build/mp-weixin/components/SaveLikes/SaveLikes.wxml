@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['changeSaveStatus',['$event']]]]]}}" class="save-incons" catchtap="__e"><uni-icons vue-id="b6971c7c-1" color="#ff6600" type="{{isSave?'heart-filled':'heart'}}" size="20" bind:__l="__l"></uni-icons></view>
